@@ -1,0 +1,11 @@
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\bin\Debug\btWindown.exe.config
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\bin\Debug\btWindown.exe
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\bin\Debug\btWindown.pdb
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.Form1.resources
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.Properties.Resources.resources
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.csproj.GenerateResource.cache
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.exe
+C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.pdb
