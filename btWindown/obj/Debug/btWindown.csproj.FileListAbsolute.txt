@@ -9,6 +9,7 @@ C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.cs
 C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.csproj.CoreCompileInputs.cache
 C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.exe
 C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.pdb
+<<<<<<< HEAD
 C:\Users\Admin QT\Source\Repos\btWindow\btWindown\bin\Debug\btWindown.exe.config
 C:\Users\Admin QT\Source\Repos\btWindow\btWindown\bin\Debug\btWindown.exe
 C:\Users\Admin QT\Source\Repos\btWindow\btWindown\bin\Debug\btWindown.pdb
@@ -25,3 +26,21 @@ C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.formHoaDon
 C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.frmHoaDonTheoNV.resources
 C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.formChiTietHoaDonTheoNV.resources
 C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.frmDangNhap.resources
+=======
+C:\Users\84899\Source\Repos\btWindow\btWindown\bin\Debug\Xemdanhmuc\Images\Lonquang.jpg
+C:\Users\84899\Source\Repos\btWindow\btWindown\bin\Debug\btWindown.exe.config
+C:\Users\84899\Source\Repos\btWindow\btWindown\bin\Debug\btWindown.exe
+C:\Users\84899\Source\Repos\btWindow\btWindown\bin\Debug\btWindown.pdb
+C:\Users\84899\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.csproj.AssemblyReference.cache
+C:\Users\84899\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.Form1.resources
+C:\Users\84899\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.Properties.Resources.resources
+C:\Users\84899\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.Xemdanhmuc.frmThanhPho.resources
+C:\Users\84899\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.csproj.GenerateResource.cache
+C:\Users\84899\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.csproj.CoreCompileInputs.cache
+C:\Users\84899\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.exe
+C:\Users\84899\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.pdb
+C:\Users\84899\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.Xemdanhmuc.Giupdo.resources
+>>>>>>> cd91b8174a32f957385df0d46960fb167b07fa2a
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.Xemdanhmuc.frmThanhPho.resources
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.Xemdanhmuc.Giupdo.resources
+C:\Users\Admin QT\source\repos\btWindow\btWindown\bin\Debug\Xemdanhmuc\Images\Lonquang.jpg

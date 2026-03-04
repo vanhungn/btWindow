@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\btWindown",
+    "\\btWindown\\Properties",
+    "\\btWindown\\Xemdanhmuc",
+    "\\btWindown\\Xemdanhmuc\\Images"
   ],
-  "SelectedNode": "\\btWindown.sln",
+  "SelectedNode": "\\btWindown\\Xemdanhmuc\\frmThanhPho.cs",
   "PreviewInSolutionExplorer": false
 }
