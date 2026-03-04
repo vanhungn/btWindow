@@ -9,3 +9,19 @@ C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.cs
 C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.csproj.CoreCompileInputs.cache
 C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.exe
 C:\Users\NGUYEN VAN HUNG\source\repos\btWindown\btWindown\obj\Debug\btWindown.pdb
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\bin\Debug\btWindown.exe.config
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\bin\Debug\btWindown.exe
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\bin\Debug\btWindown.pdb
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.csproj.AssemblyReference.cache
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.Form1.resources
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.Properties.Resources.resources
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.csproj.GenerateResource.cache
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.csproj.CoreCompileInputs.cache
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.exe
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.pdb
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.frmKHtheoTP.resources
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.frmHoaDontheoKH.resources
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.formHoaDonTheoSP.resources
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.frmHoaDonTheoNV.resources
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.formChiTietHoaDonTheoNV.resources
+C:\Users\Admin QT\Source\Repos\btWindow\btWindown\obj\Debug\btWindown.frmDangNhap.resources

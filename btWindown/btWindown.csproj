@@ -52,10 +52,64 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="formChiTietHoaDonTheoNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formChiTietHoaDonTheoNV.Designer.cs">
+      <DependentUpon>formChiTietHoaDonTheoNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formHoaDonTheoSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formHoaDonTheoSP.Designer.cs">
+      <DependentUpon>formHoaDonTheoSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoaDontheoKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoaDontheoKH.Designer.cs">
+      <DependentUpon>frmHoaDontheoKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoaDonTheoNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoaDonTheoNV.Designer.cs">
+      <DependentUpon>frmHoaDonTheoNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKHtheoTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKHtheoTP.Designer.cs">
+      <DependentUpon>frmKHtheoTP.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formChiTietHoaDonTheoNV.resx">
+      <DependentUpon>formChiTietHoaDonTheoNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formHoaDonTheoSP.resx">
+      <DependentUpon>formHoaDonTheoSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoaDontheoKH.resx">
+      <DependentUpon>frmHoaDontheoKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoaDonTheoNV.resx">
+      <DependentUpon>frmHoaDonTheoNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKHtheoTP.resx">
+      <DependentUpon>frmKHtheoTP.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +119,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +133,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\385278355_335158309000534_1111586318236100295_n - Copy %282%29.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
