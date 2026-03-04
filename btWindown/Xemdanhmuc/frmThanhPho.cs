@@ -14,8 +14,8 @@ namespace btWindown.Xemdanhmuc
 {
     public partial class frmThanhPho : Form
     {
-        string ketnoi = "Data Source=MEDIA\\SQLEXPRESS;Initial Catalog=quanlybanhang;Integrated Security=True" ;
-            SqlConnection conn = null;
+        string connStr = @"Data Source=DESKTOP-3INS5UR\MSSQLSERVER01;Initial Catalog=QuanLyBanHang;Integrated Security=True";
+        SqlConnection conn = null;
             SqlDataAdapter daTable = null;
             DataTable dtTable = null;
 
@@ -30,7 +30,7 @@ namespace btWindown.Xemdanhmuc
         {
             try
             {
-                conn = new SqlConnection(ketnoi);
+                conn = new SqlConnection(connStr);
                 int intDM = Convert.ToInt32(this.Text);
                 switch (intDM)
                 {
